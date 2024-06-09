@@ -80,9 +80,6 @@ OR
 
 ***
 ### THANKS TO:
-- [***Daniel mlelwa***](https://github.com/Dml284) For several Cmds & Ideas.
-- [***Gifted Tech***](https://github.com/mouricedevs) For Genaral Help and Brotherhood. 
-- [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption. 
-- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FLASH-MD**
+- [***Daniel mlelwa***](https://github.com/Dml284) For several Cmds & For Providing a Base of **FLASH-MD**
 - <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
