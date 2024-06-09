@@ -69,7 +69,7 @@ OR
    
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### TO JOIN OUR WHATSAPP CHANNEL 
+###
 
 *CLICK THIS 👇 BUTTON* <p align="centre">
   <a href="https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P">
