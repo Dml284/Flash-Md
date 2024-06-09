@@ -1,4 +1,4 @@
-<h1 align="center"> 𝐓𝐇𝐄 𝐅𝐋𝐀𝐒𝐇 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
+<h1 align="center"> Daniel IT   </h1>
 <p align="center">  
   
 ***
@@ -80,7 +80,7 @@ OR
 
 ***
 ### THANKS TO:
-- [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds & Ideas.
+- [***Daniel mlelwa***](https://github.com/Dml284) For several Cmds & Ideas.
 - [***Gifted Tech***](https://github.com/mouricedevs) For Genaral Help and Brotherhood. 
 - [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption. 
 - [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FLASH-MD**
