@@ -1,6 +1,6 @@
 {
   "name":"FLASH-MD",
-  "description":"An easy and simple WhatsApp bot developed by France King",
+  "description":"An easy and simple WhatsApp bot developed by Daniel",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
   "repository":"https://github.com/franceking1/Flash-Md",
@@ -49,7 +49,7 @@
 
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
       "value":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
-      "required":false
+      "required":true
 
      },
     "PUBLIC_MODE":
@@ -80,14 +80,14 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "France King"
+    "value": "Daniel"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254751284190"
+    "value": "255612986407"
   },
     "WARN_COUNT":
   {
